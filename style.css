@@ -2,7 +2,7 @@
    Background
    ========================= */
 body {
-    background-color: #f5f5f5;
+    background-color: #26b75b;
 }
 
 /* =========================
@@ -11,7 +11,7 @@ body {
 body {
     font-family: "Segoe UI", Arial, Helvetica, sans-serif;
     font-size: 14px;
-    color: red;
+    color: rgb(199, 13, 13);
     line-height: 1.5;
 }
 
